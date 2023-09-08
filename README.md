@@ -1,2 +1,2 @@
 # Blackjack
-A recreation of the classic card game BlackJack. Completed in Python.
+A recreation of the classic card game Blackjack. Completed in Python.
